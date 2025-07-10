@@ -1,0 +1,43 @@
+site_name: CSVO
+site_url: https://inthebottle.github.io/CSVO
+repo_url: https://github.com/InTheBottle/CSVO
+repo_name: InTheBottle/CSVO
+theme:
+  name: material
+  custom_dir: overrides
+  features:
+    - navigation.instant
+    - navigation.tabs
+    - navigation.sections
+    - navigation.expand
+    - navigation.path
+    - navigation.prune
+    - search.suggest
+    - search.highlight
+    - search.share
+    - navigation.footer
+markdown_extensions:
+  - pymdownx.superfences
+  - pymdownx.tabbed:
+      alternate_style: true
+  - admonition
+  - pymdownx.details
+
+plugins:
+  - search
+
+nav:
+    - Getting Started:
+      - getting-started/index.md 
+      - Installation: getting-started/installation.md
+      - Post Installation: getting-started/post-installation.md
+      - Updating: getting-started/updating.md
+      - Uninstalling: getting-started/uninstalling.md
+      - Modifying the list: getting-started/modifying-the-list.md
+      - Troubleshooting: getting-started/troubleshooting.md
+      - Credits: getting-started/credits.md
+    - Changelog:
+      - changelog/index.md
+    - Nexus Page: "https://www.nexusmods.com/skyrimspecialedition/mods/154268"
+    - Load Order: "https://loadorderlibrary.com/lists/csvo-community-shaders-visual-overhaul-2"
+    - Discord: "https://discord.gg/avzs76EgnA"

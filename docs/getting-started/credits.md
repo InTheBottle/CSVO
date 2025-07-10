@@ -1,0 +1,7 @@
+- [ElminsterAU](https://www.patreon.com/ElminsterAU) & xEdit team for SSEEdit.
+- [Noggog](https://www.nexusmods.com/skyrim/users/862590) for Mutagen and Synthesis.
+- [Halgari](https://www.nexusmods.com/skyrimspecialedition/users/17252164) & Wabbajack team.
+- [Althro](https://github.com/Althro) and [Styyx](https://github.com/Styyx1) For ADT which is the best base to build off of.
+- [Bingus](https://github.com/bingusthecatto) for Anvils epic readme that I used as a base for my own.
+- [Sheson](https://ko-fi.com/sheson) for DynDOLOD.
+- All mod authors and the Skyrim modding community.

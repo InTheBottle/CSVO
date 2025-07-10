@@ -1,0 +1,70 @@
+{% extends "main.html" %}
+{% block tabs %}
+{{ super() }}
+<style>
+    .md-header {
+        position: initial
+    }
+
+    .md-main__inner {
+        margin: 0
+    }
+
+    .md-content {
+        display: none
+    }
+
+    @media screen and (min-width:60em) {
+        .md-sidebar--secondary {
+            display: none
+        }
+    }
+
+    @media screen and (min-width:76.25em) {
+        .md-sidebar--primary {
+            display: none
+        }
+    }
+
+    /* Hero - Image */
+    .hero-image {
+        display: block;
+        width: 950px;
+        margin-inline: auto;
+        border-radius: 0.675rem;
+    }
+
+    /* Hero - Content */
+    .hero-content {
+        display: block;
+        max-width: 710px;
+        text-align: center;
+        padding: 2rem;
+        margin-inline: auto;
+        margin-top: -5%;
+        background: white;
+        position: relative;
+        border-radius: 0.675rem;
+    }
+
+    /* Hero - Wrapper */
+    .hero-wrapper {
+        padding: 2rem
+    }
+</style>
+<section class="md-typeset hero-wrapper">
+    <img src="assets/csvo.png" class="hero-image" alt="" width="1659" height="1200" draggable="false">
+    <div class="hero-content">
+        <h1>A visuals-focused modlist for Skyrim Special Edition.</h1>
+        <a href="{{ page.next_page.url | url }}" title="{{ page.next_page.title | e }}"
+            class="md-button md-button--primary">
+            Getting Started
+        </a>
+        <a href="https://discord.gg/avzs76EgnA" title="Material for MkDocs Insiders" class="md-button">
+            Discord
+        </a>
+    </div>
+</section>
+{% endblock %}
+{% block content %}{% endblock %}
+{% block footer %}{% endblock %}
