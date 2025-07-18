@@ -1,5 +1,3 @@
-# Versions
-
 ## 1.1 Changelog 7/7/2025 (Not Save Safe)
 
 - Updated LOD settings for better quality
@@ -27,7 +25,6 @@
 - Swapped PBR vanilla weapons and armor for Amidianborn PBR (Thanks Leo)
 - Fixed a few mesh load orders
 - Redone lods to match the new order.
-
 
 ## 1.4 Changelog 7/12/2025 (Not Save Safe)
 

@@ -50,7 +50,7 @@
 ## 1.4.1 Changelog 7/16/2025 (Save Safe)
 
 - Update NAT.CS
-- Hotfix for wrong statue textures being applied
+- Hotfix for wrong statue textures being applie
 
 ## 1.4.2 Changelog 7/18/2025 (Save Safe)
 

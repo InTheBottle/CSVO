@@ -4,7 +4,7 @@
 
 A visuals-focused modlist for Skyrim Special Edition.
 
-**Links**: [Nexus Page](https://www.nexusmods.com/skyrimspecialedition/mods/154268) | [Changelog](https://github.com/InTheBottle/CSVO/blob/main/Changelog.md) | [Load Order](https://loadorderlibrary.com/lists/csvo-community-shaders-visual-overhaul-2) | [Discord](https://discord.gg/avzs76EgnA)
+**Links**: [Nexus Page](https://www.nexusmods.com/skyrimspecialedition/mods/154268) | [Changelog](https://github.com/InTheBottle/CSVO/blob/main/Changelog.md) | [Load Order](https://loadorderlibrary.com/lists/csvo-community-shaders-visual-overhaul-2) | [Discord](https://discord.gg/avzs76EgnA) | [Website](https://inthebottle.github.io/CSVO/)
 
 ---
 
