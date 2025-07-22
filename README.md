@@ -130,9 +130,6 @@ ParallaxGen
 
 ![ParallaxGen](https://github.com/InTheBottle/CSVO/blob/main/Resources/Parallaxgen.png)
 
-Recommended LOD Blend settings within Community Shaders UI
-
-![LODCS](https://github.com/InTheBottle/CSVO/blob/main/Resources/LODCS.png)
 
 As long as you want lods and PBR, you'll generally need to rerun each of these when you add new meshes or location overhauls.
 ---
