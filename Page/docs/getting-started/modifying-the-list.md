@@ -24,3 +24,10 @@ These will help you when you add new meshes or overhauls etc and have to rerun t
     
     ![ParallaxGen](/CSVO/assets/images/Parallaxgen.png)
 
+=== "Comunity Shaders"
+
+    !!! info
+        Recommended LOD Blend settings within Community Shaders UI
+
+    ![LODCS](/CSVO/assets/images/LODCS.png)
+

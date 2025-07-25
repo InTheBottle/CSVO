@@ -6,24 +6,63 @@ theme:
   name: material
   custom_dir: overrides
   features:
-    - navigation.instant
-    - navigation.tabs
+    - content.code.annotate
+    - content.code.copy
+    - content.tooltips
+    - navigation.footer
+    - navigation.indexes
     - navigation.sections
-    - navigation.expand
-    - navigation.path
-    - navigation.prune
-    - search.suggest
+    - navigation.tabs
+    - navigation.top
+    - navigation.tracking
     - search.highlight
     - search.share
-    - navigation.footer
+    - search.help
+    - search.suggest
+    - toc.follow
 markdown_extensions:
-  - pymdownx.superfences
+  - abbr
+  - admonition
+  - attr_list
+  - def_list
+  - footnotes
+  - md_in_html
+  - toc:
+      permalink: true
+  - pymdownx.betterem:
+      smart_enable: all
+  - pymdownx.caret
+  - pymdownx.details
+  - pymdownx.highlight:
+      anchor_linenums: true
+      line_spans: __span
+      pygments_lang_class: true
+  - pymdownx.inlinehilite
+  - pymdownx.keys
+  - pymdownx.magiclink:
+      normalize_issue_symbols: true
+      repo_url_shorthand: true
+      user: InTheBottle
+      repo: CSVO
+  - pymdownx.mark
+  - pymdownx.snippets
+  - pymdownx.superfences:
+      custom_fences:
+        - name: mermaid
+          class: mermaid
   - pymdownx.tabbed:
       alternate_style: true
-  - admonition
-  - pymdownx.details
+      combine_header_slug: true
+  - pymdownx.tasklist:
+      custom_checkbox: true
+  - pymdownx.tilde
+
 plugins:
   - search
+  - mkdocs-simple-hooks:
+      hooks:
+        on_pre_build: "hooks.changelog:generate_changelog_page"
+
 nav:
     - Getting Started:
       - getting-started/index.md 
@@ -39,3 +78,22 @@ nav:
     - Nexus Page: "https://www.nexusmods.com/skyrimspecialedition/mods/154268"
     - Load Order: "https://loadorderlibrary.com/lists/csvo-community-shaders-visual-overhaul-2"
     - Discord: "https://discord.gg/avzs76EgnA"
+extra_javascript:
+   - https://cdn.jsdelivr.net/npm/gsap@3.13.0/dist/gsap.min.js
+   - https://cdn.jsdelivr.net/npm/gsap@3.13.0/dist/ScrollTrigger.min.js
+   - javascripts/extra.js
+
+extra_css:
+  - stylesheets/hero.css
+
+extra:
+    status:
+      new: Recently added
+      deprecated: Deprecated
+    social:
+      - icon: fontawesome/brands/github
+        link: https://github.com/InTheBottle/CSVO
+
+watch:
+  - overrides
+
