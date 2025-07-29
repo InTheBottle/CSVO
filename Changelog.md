@@ -7,6 +7,7 @@
 - [1.4 (7/12/2025)](#14-changelog-7122025-not-save-safe)
 - [1.4.1 (7/16/2025)](#141-changelog-7162025-save-safe)
 - [1.4.2 (7/18/2025)](#142-changelog-7182025-save-safe)
+- [1.4.3 (7/28/2025)](#143-changelog-7282025-save-safe)
 
 ## 1.1 Changelog 7/7/2025 (Not Save Safe)
 
@@ -56,3 +57,9 @@
 
 - Updated Faultiers AIO to fix install issue
 - Removed extra Pandora Archive being installed
+
+## 1.4.3 Changelog 7/28/2025 (Save Safe)
+
+- Added Sprint/Sneak fix
+- Added NPCs walk at your pace
+- Updated Community Shaders and its current features
