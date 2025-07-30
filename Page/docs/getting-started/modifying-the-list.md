@@ -3,24 +3,31 @@ These will help you when you add new meshes or overhauls etc and have to rerun t
 
 === "xLodgen"
 
-    ![Lodgen1](/csvo/assets/xlodgen1.png)
-    ![Lodgen2](/csvo/assets/xlodgen2.png)
-    ![Lodgen3](/csvo/assets/xlodgen3.png)
-    ![Lodgen4](/csvo/assets/xlodgen4.png)
+    ![Lodgen1](/CSVO/assets/images/xlodgen1.png)
+    ![Lodgen2](/CSVO/assets/images/xlodgen2.png)
+    ![Lodgen3](/CSVO/assets/images/xlodgen3.png)
+    ![Lodgen4](/CSVO/assets/images/xlodgen4.png)
 
 === "TexGen"
 
-    ![TexGen](/csvo/assets/texgen.png)
+    ![TexGen](/CSVO/assets/images/texgen.png)
 
 === "Dyndolod"
 
-    ![Dyndolod](/csvo/assets/dyndolod.png)
-    ![Dyndolod](/csvo/assets/dyndolodcustom.png)
+    ![Dyndolod](/CSVO/assets/images/dyndolod.png)
+    ![Dyndolod](/CSVO/assets/images/dyndolodcustom.png)
 
 === "ParallaxGen"
 
     !!! warning
         As long as you want lods and PBR, you'll generally need to rerun each of these when you add new meshes or location overhauls.
     
-    ![ParallaxGen](/csvo/assets/Parallaxgen.png)
+    ![ParallaxGen](/CSVO/assets/images/Parallaxgen.png)
+
+=== "Comunity Shaders"
+
+    !!! info
+        Recommended LOD Blend settings within Community Shaders UI
+
+    ![LODCS](/CSVO/assets/images/LODCS.png)
 

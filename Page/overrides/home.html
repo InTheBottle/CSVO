@@ -1,0 +1,16 @@
+{% extends "main.html" %}
+{% block tabs %}
+<style>.md-main { margin-top: -15dvh; }</style>
+{{ super() }}
+<section class="hero">
+    <img class="background-hero" src="/CSVO/assets/images/background.webp" alt="Background">
+    <div class="foreground-wrapper">
+        <div class="foreground-content">
+            <h2 id="logo">CSVO</h2>
+            <h3 id="logo">A visuals-focused modlist for Skyrim Special Edition.</h3>
+        </div>
+    </div>
+</section>
+{% endblock %}
+{% block content %}{% endblock %}
+{% block footer %}{% endblock %}

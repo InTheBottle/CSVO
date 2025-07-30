@@ -4,7 +4,7 @@
 
 A visuals-focused modlist for Skyrim Special Edition.
 
-**Links**: [Nexus Page](https://www.nexusmods.com/skyrimspecialedition/mods/154268) | [Changelog](https://github.com/InTheBottle/CSVO/blob/main/Changelog.md) | [Load Order](https://loadorderlibrary.com/lists/csvo-community-shaders-visual-overhaul-2) | [Discord](https://discord.gg/avzs76EgnA)
+**Links**: [Nexus Page](https://www.nexusmods.com/skyrimspecialedition/mods/154268) | [Changelog](https://github.com/InTheBottle/CSVO/blob/main/Changelog.md) | [Load Order](https://loadorderlibrary.com/lists/csvo-community-shaders-visual-overhaul-2) | [Discord](https://discord.gg/avzs76EgnA) | [Website](https://inthebottle.github.io/CSVO/)
 
 ---
 
@@ -24,6 +24,7 @@ A visuals-focused modlist for Skyrim Special Edition.
 - [Post-Installation](#post-installation)
 - [Playing the Game](#playing-the-game)
 - [Updating](#updating)
+- [Modifying the list](#Modifying-the-list)
 - [Uninstalling](#uninstalling)
 - [Troubleshooting](#troubleshooting)
 - [Credits](#credits)
@@ -51,7 +52,7 @@ Licensed under [CC BY-NC-SA 4.0](http://creativecommons.org/licenses/by-nc-sa/4.
 | Component | Recommended (1080p) | My Specs (1440p) |
 |-----------|---------------------|------------------|
 | CPU       | i5 13600k or similar | i5 13600K       |
-| GPU       | RTX 2060 or similar | RTX 4070        |
+| GPU       | RTX 3060 or similar | RTX 4070        |
 | RAM       | 16GB or more        | 32GB            |
 | Storage   | SATA SSD            | NVMe SSD        |
 
@@ -121,27 +122,14 @@ There are a few things you can and should do.
 
 ## Modifying the list
 This list is meant to modded, adding and patching mods is fairly simple and I will assume you have some decent knowledge on that part already. I will provide the LOD settings used, a long with the ParallaxGen conflict load order below.
-These will help you when you add new meshes or overhauls etc and have to rerun these things for yourself.
+These will help you when you add new meshes or overhauls etc and have to rerun these things for yourself. The quality number I use for xLodgen aren't required and you can set those to whatever you'd like.
 
-xLodgen
-
-![Lodgen1](https://github.com/InTheBottle/CSVO/blob/main/Resources/xlodgen1.png)
-![Lodgen2](https://github.com/InTheBottle/CSVO/blob/main/Resources/xlodgen2.png)
-![Lodgen3](https://github.com/InTheBottle/CSVO/blob/main/Resources/xlodgen3.png)
-![Lodgen4](https://github.com/InTheBottle/CSVO/blob/main/Resources/xlodgen4.png)
-
-TexGen
-
-![TexGen](https://github.com/InTheBottle/CSVO/blob/main/Resources/texgen.png)
-
-Dyndolod
-
-![Dyndolod](https://github.com/InTheBottle/CSVO/blob/main/Resources/dyndolod.png)
-![Dyndolod](https://github.com/InTheBottle/CSVO/blob/main/Resources/dyndolodcustom.png)
+For LOD generation just follow this [Dragonborn's Fate LOD](https://dragonbornsfate.moddinglinked.com/lod.html)
 
 ParallaxGen
 
 ![ParallaxGen](https://github.com/InTheBottle/CSVO/blob/main/Resources/Parallaxgen.png)
+
 
 As long as you want lods and PBR, you'll generally need to rerun each of these when you add new meshes or location overhauls.
 ---
