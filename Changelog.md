@@ -8,6 +8,7 @@
 - [1.4.1 (7/16/2025)](#141-changelog-7162025-save-safe)
 - [1.4.2 (7/18/2025)](#142-changelog-7182025-save-safe)
 - [1.4.3 (7/28/2025)](#143-changelog-7282025-save-safe)
+- [1.4.4 (7/30/2025)](#144-changelog-7302025-save-safe)
 
 ## 1.1 Changelog 7/7/2025 (Not Save Safe)
 
@@ -63,3 +64,17 @@
 - Added Sprint/Sneak fix
 - Added NPCs walk at your pace
 - Updated Community Shaders and its current features
+
+## 1.4.4 Changelog 7/30/2025 (Save Safe)
+
+- Quick PG fix
+
+ ## 1.4.5 Changelog 8/04/2025 (Save Safe)
+
+- Added modlist version checker for users to track update in game
+- Updated po3 util mods
+- Updated Light Placer
+- Updated CS Light
+- Added plugin separators
+- Reorganized list for easier visibility
+- Added and updated latest CS features
