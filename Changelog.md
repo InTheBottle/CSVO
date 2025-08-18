@@ -150,3 +150,5 @@
 - Added terrain blending and updated main Community Shaders
 - Reran all lods and Parallaxgen
 - General mod updates and some plugin shuffling
+- Set up bodyslide tool in mo2
+- Set up nifskope tool in mo2
