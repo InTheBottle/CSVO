@@ -11,6 +11,7 @@
 - [1.4.4 (7/30/2025)](#144-changelog-7302025-save-safe)
 - [1.4.5 (8/04/2025)](#145-changelog-8042025-save-safe)
 - [1.5.0 (8/13/2025)](#150-changelog-8132025-not-save-safe)
+- [1.6.0 (8/18/2025)](#160-changelog-8182025-not-save-safe)
 
 ## 1.1 Changelog 7/7/2025 (Not Save Safe)
 
@@ -139,3 +140,13 @@
 - Vanilla Landscapes Corrections
 - Water for ENB
 - Windhelm Bridge Stairs
+
+## 1.6.0 Changelog 8/18/2025 (Not Save Safe)
+
+- Added BNP for skin
+- Added Beasthhbb for beast races
+- Added bodyslide output and Obody
+- Added dual sheath meshes and Lean wolfs weapon meshes
+- Added terrain blending and updated main Community Shaders
+- Reran all lods and Parallaxgen
+- General mod updates and some plugin shuffling
