@@ -12,6 +12,7 @@
 - [1.4.5 (8/04/2025)](#145-changelog-8042025-save-safe)
 - [1.5.0 (8/13/2025)](#150-changelog-8132025-not-save-safe)
 - [1.6.0 (8/18/2025)](#160-changelog-8182025-not-save-safe)
+- [1.6.1 (8/30/2025)](#161-changelog-8302025-save-safe)
 
 ## 1.1 Changelog 7/7/2025 (Not Save Safe)
 
@@ -152,3 +153,9 @@
 - General mod updates and some plugin shuffling
 - Set up bodyslide tool in mo2
 - Set up nifskope tool in mo2
+
+## 1.6.1 Changelog 8/30/2025 (Save Safe)
+
+- Updated SSE Engine Fixes
+- Fixed body physics
+- Fixed load order changed mo2 bug
