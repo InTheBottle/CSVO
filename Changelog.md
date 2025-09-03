@@ -13,6 +13,7 @@
 - [1.5.0 (8/13/2025)](#150-changelog-8132025-not-save-safe)
 - [1.6.0 (8/18/2025)](#160-changelog-8182025-not-save-safe)
 - [1.6.1 (8/30/2025)](#161-changelog-8302025-save-safe)
+- [1.7.0 (9/03/2025)](#170-changelog-9032025-not-save-safe)
 
 ## 1.1 Changelog 7/7/2025 (Not Save Safe)
 
@@ -159,3 +160,19 @@
 - Updated SSE Engine Fixes
 - Fixed body physics
 - Fixed load order changed mo2 bug
+
+## 1.7.0 Changelog 9/03/2025 (Not Save Safe)
+
+- Removed body mods, out of scope for what CSVO is and complicates the modding process for people looking to just jump start a working CS PBR set up
+
+- Added SkySight skins for males and Tempered skins for Females
+
+- Also added Astralite weathers as an optional, just enable astralite and put it in the weather plugin separator on the right window in mo2, disable Dial - NAT, Nat.CS and NAT.ENB, then reinstall DIAL with the vanilla patch enabled in its fomod
+
+# Mod Maintenance
+
+- Updated Light placer, True Light and po3 tweaks. Fixes some pretty critical bugs to get the three working together properly.
+
+- Updated Pandora behavior engine
+
+- Updated SSE Engine fixes
