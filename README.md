@@ -4,11 +4,11 @@
 
 A visuals-focused modlist for Skyrim Special Edition.
 
-**Links**: [Nexus Page](https://www.nexusmods.com/skyrimspecialedition/mods/154268) | [Changelog](https://github.com/InTheBottle/CSVO/blob/main/Changelog.md) | [Load Order](https://loadorderlibrary.com/lists/csvo-community-shaders-visual-overhaul-2) | [Discord](https://discord.gg/avzs76EgnA) | [Website](https://inthebottle.github.io/CSVO/)
+**Links**: [Nexus Page](https://www.nexusmods.com/skyrimspecialedition/mods/154268) | [Changelog](https://github.com/InTheBottle/CSVO/blob/main/Changelog.md) | [Load Order](https://loadorderlibrary.com/lists/csvo-community-shaders-visual-overhaul-2) | [Discord](https://discord.gg/bungalo) | [Website](https://inthebottle.github.io/CSVO/)
 
 ---
 
-**Support**: Join the [CSVO Discord](https://discord.gg/avzs76EgnA)
+**Support**: Join the [CSVO Discord](https://discord.gg/bungalo)
 
 **Requirements**:
 - Skyrim SE version 1.6.1170 (latest Steam update).
@@ -147,9 +147,9 @@ As long as you want lods and PBR, you'll generally need to rerun each of these w
 
 - **Post-Installation Issues**:
   - Form 43/DLL errors? Reinstall with “Overwrite Installation” checked in Wabbajack.
-  - Crashing on startup? Reinstall or seek help on [Discord](https://discord.gg/avzs76EgnA) with crash logs.
+  - Crashing on startup? Reinstall or seek help on [Discord](https://discord.gg/bungalo) with crash logs.
 
-- Join [CSVO Discord](https://discord.gg/avzs76EgnA) for support.
+- Join [CSVO Discord](https://discord.gg/bungalo) for support.
 
 ---
 
