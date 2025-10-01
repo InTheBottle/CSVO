@@ -15,6 +15,7 @@
 - [1.6.1 (8/30/2025)](#161-changelog-8302025-save-safe)
 - [1.7.0 (9/03/2025)](#170-changelog-9032025-not-save-safe)
 - [1.8.0 (9/27/2025)](#180-changelog-9272025-not-save-safe)
+- [1.9.0 (10/1/2025)](#190-changelog-1012025-not-save-safe)
 
 ## 1.1 Changelog 7/7/2025 (Not Save Safe)
 
@@ -182,3 +183,11 @@
 
 - Tons of mod updates, no new additions just updated mods and community shaders suite and moved some things around for minor conflict fixes. Community shaders now has an in game start pop up that will let you configure what key you want to open it with, just follow the prompts and hit escape when you're done. Then open the UI and set it up how you'd like.
 
+## 1.9.0 Changelog 10/1/2025 (Not Save Safe)
+
+- Visuals update
+- Swapped Skysight male skin to Tempered for consistency with female skin
+- Updated Community Shaders plugins
+- Swapped default weather to astralite (NAT.CS still available as optional)
+- Swapped True Light and Window Shadows Ultimate for LUX.CS
+- Added [Image Based Lighting ](https://github.com/doodlum/skyrim-community-shaders)
