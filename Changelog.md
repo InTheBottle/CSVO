@@ -14,6 +14,7 @@
 - [1.6.0 (8/18/2025)](#160-changelog-8182025-not-save-safe)
 - [1.6.1 (8/30/2025)](#161-changelog-8302025-save-safe)
 - [1.7.0 (9/03/2025)](#170-changelog-9032025-not-save-safe)
+- [1.8.0 (9/27/2025)](#180-changelog-9032025-not-save-safe)
 
 ## 1.1 Changelog 7/7/2025 (Not Save Safe)
 
@@ -176,3 +177,7 @@
 - Updated Pandora behavior engine
 
 - Updated SSE Engine fixes
+
+## 1.8.0 Changelog 9/27/2025 (Not Save Safe)
+
+- Tons of mod updates, no new additions just updated mods and community shaders suite and moved some things around for minor conflict fixes. Community shaders now has an in game start pop up that will let you configure what key you want to open it with, just follow the prompts and hit escape when you're done. Then open the UI and set it up how you'd like.
