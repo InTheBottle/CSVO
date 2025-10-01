@@ -191,3 +191,4 @@
 - Swapped default weather to astralite (NAT.CS still available as optional)
 - Swapped True Light and Window Shadows Ultimate for LUX.CS
 - Added [Image Based Lighting ](https://github.com/doodlum/skyrim-community-shaders)
+- Swapped Lightwood Trees for Happy Little Trees PBR
