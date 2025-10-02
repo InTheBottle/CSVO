@@ -1,0 +1,46 @@
+.hero {
+    overflow: hidden;
+    position: relative;
+}
+
+.background-hero {
+    width: 100%;
+    height: 100dvh;
+    object-fit: cover;
+    display: block;
+    scale: 1.1;
+    filter: brightness(0.8);
+}
+
+
+.foreground-wrapper {
+    position: absolute;
+    inset: 0;
+}
+
+.foreground-content {
+    display: block;
+    height: 400px;
+    margin: auto;
+    justify-content: center;
+    align-items: center;
+    color: white;
+    padding: 2rem;
+    text-align: center;
+}
+
+
+.foreground-content > * {
+    margin: 0;
+}
+
+.foreground-content > h3 {
+    font-size: clamp(1.5rem, 5vw, 2rem);
+    font-weight: 400;
+    text-wrap: pretty;
+}
+
+.foreground-content > h2 {
+    font-size: 5rem;
+    font-weight: 700;
+}
