@@ -101,7 +101,7 @@ There are a few things you can and should do.
 - Steps: Windows Security > Virus & Threat Protection > Manage Settings > Exclusions > Add Folder > Select CSVO folder.
 
 ### Keyboard Keybinds
-- **Community Shaders**: `End` key.
+- **Community Shaders**: `Page Up` key.
 - Other controls use vanilla Skyrim keybinds.
 
 ---
