@@ -16,7 +16,7 @@
 - [1.7.0 (9/03/2025)](#170-changelog-9032025-not-save-safe)
 - [1.8.0 (9/27/2025)](#180-changelog-9272025-not-save-safe)
 - [1.9.0 (10/1/2025)](#190-changelog-1012025-not-save-safe)
-- [2.0.1 (10/30/2025)](#201-changelog-1030025-save-safe)
+- [2.0.1 (10/30/2025)](#201-changelog-103025-save-safe)
 
 ## 1.1 Changelog 7/7/2025 (Not Save Safe)
 
@@ -199,3 +199,4 @@
 - Visuals update
 - New trees and weather
 - Hotfix for armor (save safe if updating from version 2.0.0)
+
