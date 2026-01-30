@@ -4,11 +4,11 @@
 
 A visuals-focused modlist for Skyrim Special Edition.
 
-**Links**: [Nexus Page](https://www.nexusmods.com/skyrimspecialedition/mods/154268) | [Changelog](https://github.com/InTheBottle/CSVO/blob/main/Changelog.md) | [Load Order](https://loadorderlibrary.com/lists/csvo-community-shaders-visual-overhaul-2) | [Discord](https://discord.gg/bungalo) | [Website](https://inthebottle.github.io/CSVO/)
+**Links**: [Nexus Page](https://www.nexusmods.com/skyrimspecialedition/mods/154268) | [Changelog](https://github.com/InTheBottle/CSVO/blob/main/Changelog.md) | [Load Order](https://loadorderlibrary.com/lists/csvo-community-shaders-visual-overhaul-2) | [Discord](https://discord.gg/WF66mMu) | [Website](https://inthebottle.github.io/CSVO/)
 
 ---
 
-**Support**: Join the [CSVO Discord](https://discord.gg/bungalo)
+**Support**: Join the [CSVO Discord](https://discord.gg/WF66mMu)
 
 **Requirements**:
 - Skyrim SE version 1.6.1170 (latest Steam update).
