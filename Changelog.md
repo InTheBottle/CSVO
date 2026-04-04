@@ -17,6 +17,7 @@
 - [1.8.0 (9/27/2025)](#180-changelog-9272025-not-save-safe)
 - [1.9.0 (10/1/2025)](#190-changelog-1012025-not-save-safe)
 - [2.0.1 (10/30/2025)](#201-changelog-10302025-save-safe)
+- [2.2.0 (4/4/2026)](#220-changelog-442026-not-save-safe)
 
 ## 1.1 Changelog 7/7/2025 (Not Save Safe)
 
@@ -200,4 +201,16 @@
 - New trees and weather
 - Hotfix for armor (save safe if updating from version 2.0.0)
 
+## 2.2.0 Changelog 4/4/2026 (Not Save Safe)
 
+- Mods updates, tons of them. CSVO was left and got pretty old so I went through and updated everything that was important.
+- Visual makeover, Obsidian CS and Nordic Cut for trees.
+- New PBR for whiterun, riften, solitude and forts.
+- Generated full map LODs
+- Updated SkyUI
+- Completely redone all of the script fixes, using better ones where possible and reordered within the list
+- Repatched USSEP, USMP and all important conflicts that came with the updates
+- Lux CS and Lux Orbis added
+- Faultiers AIO, landscapes and armor and clothing all added.
+- CS updates
+- Still vanilla gameplay and story at its core but now with far better visuals and textures. Still very easy to pull apart and mod for the user as well.
