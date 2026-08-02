@@ -226,3 +226,5 @@
 - Added all of the Skyrim 3D PBR series
 - Added Vanilla PBR AIO
 - Added Tomatos PBR texture mods
+- Removed a bunch of mods that in my mind, were not essential
+- Kept the plugin count to 150
