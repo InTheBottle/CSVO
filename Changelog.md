@@ -18,6 +18,8 @@
 - [1.9.0 (10/1/2025)](#190-changelog-1012025-not-save-safe)
 - [2.0.1 (10/30/2025)](#201-changelog-10302025-save-safe)
 - [2.2.0 (4/4/2026)](#220-changelog-442026-not-save-safe)
+- [2.3.0 (8/1/2026)](#230-changelog-812026-not-save-safe)
+
 
 ## 1.1 Changelog 7/7/2025 (Not Save Safe)
 
@@ -214,3 +216,13 @@
 - Faultiers AIO, landscapes and armor and clothing all added.
 - CS updates
 - Still vanilla gameplay and story at its core but now with far better visuals and textures. Still very easy to pull apart and mod for the user as well.
+
+## 2.3.0 Changelog 8/1/2026 (Not Save Safe)
+
+- Tons and tons of mod updates
+- Added new bug fixes
+- Cleaned up redundant script fixes
+- Updated Community Shaders
+- Added all of the Skyrim 3D PBR series
+- Added Vanilla PBR AIO
+- Added Tomatos PBR texture mods
