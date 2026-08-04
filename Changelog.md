@@ -19,6 +19,7 @@
 - [2.0.1 (10/30/2025)](#201-changelog-10302025-save-safe)
 - [2.2.0 (4/4/2026)](#220-changelog-442026-not-save-safe)
 - [2.3.0 (8/1/2026)](#230-changelog-812026-not-save-safe)
+- [2.3.1 (8/4/2026)](#231-changelog-842026-save-safe)
 
 
 ## 1.1 Changelog 7/7/2025 (Not Save Safe)
@@ -228,3 +229,8 @@
 - Added Tomatos PBR texture mods
 - Removed a bunch of mods that in my mind, were not essential
 - Kept the plugin count to 150
+
+## 2.3.1 Changelog 8/4/2026 (Save Safe)
+
+- Updated Community Shaders
+- Fixed CC dependencies, it won't require paid CC now sorry about that.
