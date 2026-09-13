@@ -1,6 +1,6 @@
 # CSVO: A Skyrim Modlist
 
-![CSVO Logo](https://github.com/InTheBottle/CSVO/blob/main/Resources/csvo.png)
+![CSVO Logo](https://raw.githubusercontent.com/InTheBottle/CSVO/refs/heads/main/Resources/csvo.png)
 
 A visuals-focused modlist for Skyrim Special Edition.
 
